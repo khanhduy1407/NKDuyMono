@@ -4,19 +4,6 @@ Default version of NKDuy Mono comes with OpenType features and ligatures (which 
 
 # **Installation**
 
-### Brew (macOS only)
-
-1. Tap the font cask to make the NKDuy Mono font available :
-
-    ```console
-    brew tap homebrew/cask-fonts
-    ```
-2. Install it using the `font-nkduy-mono` cask:
-
-   ```console
-   brew install --cask font-nkduy-mono
-   ```
-
 ### Manual installation
 
 _On Mac/Windows_: 
